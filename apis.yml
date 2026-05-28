@@ -1,0 +1,32 @@
+aid: jsonbin-io
+name: JSONbin.io
+description: "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps"
+url: https://jsonbin.io
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: JSONbin.io
+    description: "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps"
+    humanURL: https://jsonbin.io
+    baseURL: https://jsonbin.io
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://jsonbin.io
+common:
+  - type: Website
+    url: https://jsonbin.io
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
