@@ -1,4 +1,16 @@
 aid: jsonbin-io
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jsonbin-io.png
 name: JSONbin.io
 description: "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps"
 url: https://jsonbin.io
