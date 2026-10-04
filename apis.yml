@@ -39,7 +39,6 @@ apis:
   - name: JSONbin.io
     description: "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps"
     humanURL: https://jsonbin.io
-    baseURL: https://jsonbin.io
     tags:
       - Development
     properties:
